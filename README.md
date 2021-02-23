@@ -1,2 +1,2 @@
 # ateTrees
-Python implementation of  a Random Forest based on the Causal tree algorithm  
+CUstom Python implementation of Random Forest based on the Causal Tree Algorithm  
